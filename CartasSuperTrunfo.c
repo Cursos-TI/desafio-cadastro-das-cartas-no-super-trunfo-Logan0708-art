@@ -1,9 +1,7 @@
 #include <stdio.h>
 
-
-//Teste larissa
-
 int main() {
+    
    printf("CARTA 1 \n");
    char estado [30] = "ESPIRITO SANTO";
    char codigo[5]= "E01";
